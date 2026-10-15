@@ -1,0 +1,24 @@
+# Core
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+joblib
+
+# Modeling
+torch
+optuna
+captum
+
+# NLP / embeddings
+gensim
+nltk
+transformers
+tqdm
+
+# Data sources / utils
+requests
+beautifulsoup4
+openpyxl
+pyarrow
